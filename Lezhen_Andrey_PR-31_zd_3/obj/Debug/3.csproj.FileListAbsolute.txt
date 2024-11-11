@@ -1,0 +1,14 @@
+C:\Шарага\Олимпиада\3\bin\Debug\3.exe.config
+C:\Шарага\Олимпиада\3\bin\Debug\3.exe
+C:\Шарага\Олимпиада\3\bin\Debug\3.pdb
+C:\Шарага\Олимпиада\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Шарага\Олимпиада\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Шарага\Олимпиада\3\obj\Debug\3.exe
+C:\Шарага\Олимпиада\3\obj\Debug\3.pdb
+C:\Шарага\Олимпиада\Lezhen_Andrey_PR-31_zd_3\bin\Debug\3.exe.config
+C:\Шарага\Олимпиада\Lezhen_Andrey_PR-31_zd_3\bin\Debug\3.exe
+C:\Шарага\Олимпиада\Lezhen_Andrey_PR-31_zd_3\bin\Debug\3.pdb
+C:\Шарага\Олимпиада\Lezhen_Andrey_PR-31_zd_3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Шарага\Олимпиада\Lezhen_Andrey_PR-31_zd_3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Шарага\Олимпиада\Lezhen_Andrey_PR-31_zd_3\obj\Debug\3.exe
+C:\Шарага\Олимпиада\Lezhen_Andrey_PR-31_zd_3\obj\Debug\3.pdb

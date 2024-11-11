@@ -1,0 +1,7 @@
+C:\Шарага\Олимпиада\5\bin\Debug\2.1.exe.config
+C:\Шарага\Олимпиада\5\bin\Debug\2.1.exe
+C:\Шарага\Олимпиада\5\bin\Debug\2.1.pdb
+C:\Шарага\Олимпиада\5\obj\Debug\2.1.csproj.AssemblyReference.cache
+C:\Шарага\Олимпиада\5\obj\Debug\2.1.csproj.CoreCompileInputs.cache
+C:\Шарага\Олимпиада\5\obj\Debug\2.1.exe
+C:\Шарага\Олимпиада\5\obj\Debug\2.1.pdb
